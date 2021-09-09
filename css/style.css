@@ -25,10 +25,14 @@ a:hover {
 }
 
 body {
-   /* background: rgb(2,0,36);
-    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(150,14,54,1) 35%, rgba(0,212,255,1) 100%);*/
+   /**/
     background-color: #E9ECEF;
 
+}
+
+#products-body-color {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(150,14,54,1) 35%, rgba(0,212,255,1) 100%);
 }
 
 .nav-title-color {
